@@ -1,0 +1,23 @@
+{
+  "skill_name": "mentor-guide",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想学习如何设计一个 RESTful API，书在第 4 章，涉及认证和权限管理。请像导师一样指导我完成这个挑战。",
+      "expected_output": "导师应该分析挑战，生成路线图，然后开始互动引导，而非直接给出完整答案或代码",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我要读论文 'Attention Is All You Need'，这是 Transformer 的原始论文。我完全不理解 attention 机制，请引导我完成学习。",
+      "expected_output": "导师应该识别用户对 attention 机制的困惑，使用苏格拉底式提问引导理解，而非直接讲解",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我想完成《系统设计面试》这本书的第 3 章：设计短链接服务。请像导师一样一步步引导我完成这个高难度挑战。",
+      "expected_output": "导师应该将复杂的系统设计挑战分解为多个里程碑，按步骤引导用户，而非直接给出完整设计方案",
+      "files": []
+    }
+  ]
+}
